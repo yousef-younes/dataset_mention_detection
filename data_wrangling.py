@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 
-project_path = "HERE IS THE PATH THE THE COLREDIGE DATASET - SHOW US THE DATA"
+project_path = "HERE IS THE PATH THE COLREDIGE DATASET - SHOW US THE DATA"
 data_path = project_path + 'data\\'
 
 ''''
