@@ -7,6 +7,6 @@ To run the code, please, do the following:
 
 1. Download the Coleridge dataset from https://www.kaggle.com/competitions/coleridgeinitiative-show-us-the-data/data.
 
-2. Use the functions in the data_wrangling module to process the data and split it into training and testing sets. These splits should reside in a folder named "data" which is in the same directory as the code. Unfortunately, we can not provide the data due to GitHub restrictions on the size. 
+2. Use the functions in the data_wrangling module to process the data using process_kaggle_data function. Then split the data into training and testing sets using divide_processed_data function. These splits should reside in a folder named "data" which is in the same directory as the code. A third function also shows statistics about the training and testing splits. Unfortunately, we can not provide the data due to GitHub restrictions on the size. 
 
 3. For the table that you want to reproduce, run its associated module which will show the results when the experiments are done. 
